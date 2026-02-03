@@ -1,2 +1,2 @@
-# Java Review Script by Angelic_Ann_A_La_Paz
+# Java Review Script by Angelic Ann Alonzo La Pazgit
 This project is a review of JavaScript concepts, from beginner to advanced.
